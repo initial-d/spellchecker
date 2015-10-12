@@ -1,0 +1,1784 @@
+  abstruse Total: 8  Correct: 8 Miss: 0
+  obtuse Total: 10  Correct: 5 Miss: 5
+  Word abstruse 准确率: 0.615385  召回率: 1  F1测度: 0.761905
+  Word obtuse 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  accede Total: 10  Correct: 10 Miss: 0
+  exceed Total: 11  Correct: 7 Miss: 4
+  Word accede 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word exceed 准确率: 1  召回率: 0.636364  F1测度: 0.777778
+
+
+  accept Total: 11  Correct: 11 Miss: 0
+  except Total: 10  Correct: 6 Miss: 4
+  Word accept 准确率: 0.733333  召回率: 1  F1测度: 0.846154
+  Word except 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  adapt Total: 10  Correct: 6 Miss: 4
+  adept Total: 10  Correct: 7 Miss: 3
+  adopt Total: 10  Correct: 8 Miss: 2
+  Word adapt 准确率: 0.666667  召回率: 0.6  F1测度: 0.631579
+  Word adept 准确率: 0.636364  召回率: 0.7  F1测度: 0.666667
+  Word adopt 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  adoptive Total: 10  Correct: 9 Miss: 1
+  adopted Total: 11  Correct: 9 Miss: 2
+  Word adoptive 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word adopted 准确率: 0.9  召回率: 0.818182  F1测度: 0.857143
+
+
+  adverse Total: 10  Correct: 8 Miss: 2
+  averse Total: 11  Correct: 8 Miss: 3
+  Word adverse 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+  Word averse 准确率: 0.8  召回率: 0.727273  F1测度: 0.761905
+
+
+  advice Total: 10  Correct: 9 Miss: 1
+  advise Total: 10  Correct: 7 Miss: 3
+  Word advice 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word advise 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  aggravate Total: 11  Correct: 8 Miss: 3
+  annoy Total: 10  Correct: 7 Miss: 3
+  Word aggravate 准确率: 0.727273  召回率: 0.727273  F1测度: 0.727273
+  Word annoy 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  aid Total: 11  Correct: 11 Miss: 0
+  aide Total: 10  Correct: 4 Miss: 6
+  Word aid 准确率: 0.647059  召回率: 1  F1测度: 0.785714
+  Word aide 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  aisle Total: 10  Correct: 9 Miss: 1
+  isle Total: 11  Correct: 9 Miss: 2
+  Word aisle 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word isle 准确率: 0.9  召回率: 0.818182  F1测度: 0.857143
+
+
+  allot Total: 10  Correct: 9 Miss: 1
+  alot Total: 10  Correct: 9 Miss: 1
+  Word allot 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word alot 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  allude Total: 6  Correct: 6 Miss: 0
+  elude Total: 10  Correct: 7 Miss: 3
+  Word allude 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word elude 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  allusion Total: 10  Correct: 9 Miss: 1
+  delusion Total: 10  Correct: 6 Miss: 4
+  illusion Total: 10  Correct: 7 Miss: 3
+  Word allusion 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word delusion 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+  Word illusion 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  almost Total: 10  Correct: 10 Miss: 0
+  most Total: 10  Correct: 7 Miss: 3
+  Word almost 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+  Word most 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  aloud Total: 10  Correct: 10 Miss: 0
+  allowed Total: 10  Correct: 9 Miss: 1
+  Word aloud 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+  Word allowed 准确率: 1  召回率: 0.9  F1测度: 0.947368
+
+
+  altar Total: 10  Correct: 8 Miss: 2
+  alter Total: 10  Correct: 10 Miss: 0
+  Word altar 准确率: 1  召回率: 0.8  F1测度: 0.888889
+  Word alter 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+
+
+  alternately Total: 10  Correct: 10 Miss: 0
+  alternatively Total: 10  Correct: 6 Miss: 4
+  Word alternately 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word alternatively 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  ambiguous Total: 10  Correct: 6 Miss: 4
+  ambivalent Total: 10  Correct: 8 Miss: 2
+  Word ambiguous 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+  Word ambivalent 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+
+
+  amiable Total: 11  Correct: 10 Miss: 1
+  amicable Total: 11  Correct: 6 Miss: 5
+  Word amiable 准确率: 0.666667  召回率: 0.909091  F1测度: 0.769231
+  Word amicable 准确率: 0.857143  召回率: 0.545455  F1测度: 0.666667
+
+
+  among Total: 10  Correct: 9 Miss: 1
+  amongst Total: 11  Correct: 8 Miss: 3
+  Word among 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word amongst 准确率: 0.888889  召回率: 0.727273  F1测度: 0.8
+
+
+  amoral Total: 10  Correct: 10 Miss: 0
+  immoral Total: 10  Correct: 6 Miss: 4
+  Word amoral 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word immoral 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  amount Total: 10  Correct: 10 Miss: 0
+  number Total: 10  Correct: 3 Miss: 7
+  quantity Total: 10  Correct: 7 Miss: 3
+  Word amount 准确率: 0.588235  召回率: 1  F1测度: 0.740741
+  Word number 准确率: 0.75  召回率: 0.3  F1测度: 0.428571
+  Word quantity 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  amused Total: 10  Correct: 8 Miss: 2
+  bemused Total: 10  Correct: 7 Miss: 3
+  Word amused 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+  Word bemused 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  annual Total: 10  Correct: 10 Miss: 0
+  annul Total: 7  Correct: 6 Miss: 1
+  Word annual 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+  Word annul 准确率: 1  召回率: 0.857143  F1测度: 0.923077
+
+
+  arcane Total: 10  Correct: 7 Miss: 3
+  archaic Total: 10  Correct: 7 Miss: 3
+  Word arcane 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+  Word archaic 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  ascetic Total: 10  Correct: 7 Miss: 3
+  aesthetic Total: 10  Correct: 7 Miss: 3
+  Word ascetic 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+  Word aesthetic 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  ascribe Total: 10  Correct: 10 Miss: 0
+  describe Total: 10  Correct: 5 Miss: 5
+  Word ascribe 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word describe 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  assent Total: 10  Correct: 6 Miss: 4
+  ascent Total: 10  Correct: 10 Miss: 0
+  Word assent 准确率: 1  召回率: 0.6  F1测度: 0.75
+  Word ascent 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+
+
+  assistance Total: 10  Correct: 8 Miss: 2
+  assistants Total: 11  Correct: 9 Miss: 2
+  Word assistance 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word assistants 准确率: 0.818182  召回率: 0.818182  F1测度: 0.818182
+
+
+  assure Total: 10  Correct: 9 Miss: 1
+  ensure Total: 10  Correct: 7 Miss: 3
+  insure Total: 10  Correct: 6 Miss: 4
+  Word assure 准确率: 0.5625  召回率: 0.9  F1测度: 0.692308
+  Word ensure 准确率: 1  召回率: 0.7  F1测度: 0.823529
+  Word insure 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  auger Total: 9  Correct: 9 Miss: 0
+  augur Total: 9  Correct: 6 Miss: 3
+  Word auger 准确率: 0.75  召回率: 1  F1测度: 0.857143
+  Word augur 准确率: 1  召回率: 0.666667  F1测度: 0.8
+
+
+  aural Total: 10  Correct: 10 Miss: 0
+  oral Total: 10  Correct: 7 Miss: 3
+  Word aural 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+  Word oral 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  award Total: 10  Correct: 8 Miss: 2
+  reward Total: 10  Correct: 7 Miss: 3
+  Word award 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+  Word reward 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  bad Total: 10  Correct: 9 Miss: 1
+  badly Total: 10  Correct: 4 Miss: 6
+  Word bad 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word badly 准确率: 0.8  召回率: 0.4  F1测度: 0.533333
+
+
+  balmy Total: 10  Correct: 9 Miss: 1
+  barmy Total: 10  Correct: 5 Miss: 5
+  Word balmy 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+  Word barmy 准确率: 0.833333  召回率: 0.5  F1测度: 0.625
+
+
+  bare Total: 10  Correct: 7 Miss: 3
+  bear Total: 10  Correct: 8 Miss: 2
+  Word bare 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word bear 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  bazaar Total: 10  Correct: 6 Miss: 4
+  bizarre Total: 10  Correct: 2 Miss: 8
+  Word bazaar 准确率: 0.428571  召回率: 0.6  F1测度: 0.5
+  Word bizarre 准确率: 0.333333  召回率: 0.2  F1测度: 0.25
+
+
+  being Total: 10  Correct: 3 Miss: 7
+  been Total: 11  Correct: 10 Miss: 1
+  Word being 准确率: 0.75  召回率: 0.3  F1测度: 0.428571
+  Word been 准确率: 0.588235  召回率: 0.909091  F1测度: 0.714286
+
+
+  belief Total: 10  Correct: 9 Miss: 1
+  believe Total: 10  Correct: 2 Miss: 8
+  Word belief 准确率: 0.529412  召回率: 0.9  F1测度: 0.666667
+  Word believe 准确率: 0.666667  召回率: 0.2  F1测度: 0.307692
+
+
+  berth Total: 11  Correct: 8 Miss: 3
+  birth Total: 10  Correct: 7 Miss: 3
+  Word berth 准确率: 0.727273  召回率: 0.727273  F1测度: 0.727273
+  Word birth 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  beside Total: 10  Correct: 8 Miss: 2
+  besides Total: 10  Correct: 5 Miss: 5
+  Word beside 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+  Word besides 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+
+
+  biannual Total: 5  Correct: 3 Miss: 2
+  biennial Total: 11  Correct: 8 Miss: 3
+  Word biannual 准确率: 0.5  召回率: 0.6  F1测度: 0.545455
+  Word biennial 准确率: 0.8  召回率: 0.727273  F1测度: 0.761905
+
+
+  blithe Total: 8  Correct: 8 Miss: 0
+  lithe Total: 10  Correct: 7 Miss: 3
+  Word blithe 准确率: 0.727273  召回率: 1  F1测度: 0.842105
+  Word lithe 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  block Total: 10  Correct: 4 Miss: 6
+  bloc Total: 10  Correct: 8 Miss: 2
+  Word block 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+  Word bloc 准确率: 0.571429  召回率: 0.8  F1测度: 0.666667
+
+
+  blonde Total: 10  Correct: 8 Miss: 2
+  blond Total: 10  Correct: 4 Miss: 6
+  Word blonde 准确率: 0.571429  召回率: 0.8  F1测度: 0.666667
+  Word blond 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+
+
+  board Total: 10  Correct: 10 Miss: 0
+  bored Total: 10  Correct: 1 Miss: 9
+  Word board 准确率: 0.526316  召回率: 1  F1测度: 0.689655
+  Word bored 准确率: 1  召回率: 0.1  F1测度: 0.181818
+
+
+  born Total: 10  Correct: 9 Miss: 1
+  borne Total: 10  Correct: 8 Miss: 2
+  Word born 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word borne 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  bough Total: 10  Correct: 10 Miss: 0
+  bow Total: 10  Correct: 6 Miss: 4
+  Word bough 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word bow 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  brake Total: 11  Correct: 11 Miss: 0
+  break Total: 10  Correct: 3 Miss: 7
+  Word brake 准确率: 0.611111  召回率: 1  F1测度: 0.758621
+  Word break 准确率: 1  召回率: 0.3  F1测度: 0.461538
+
+
+  breathe Total: 10  Correct: 5 Miss: 5
+  breath Total: 10  Correct: 8 Miss: 2
+  breech Total: 8  Correct: 7 Miss: 1
+  Word breathe 准确率: 1  召回率: 0.5  F1测度: 0.666667
+  Word breath 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+  Word breech 准确率: 0.7  召回率: 0.875  F1测度: 0.777778
+
+
+  bridal Total: 10  Correct: 9 Miss: 1
+  bridle Total: 10  Correct: 6 Miss: 4
+  Word bridal 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word bridle 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  broach Total: 10  Correct: 9 Miss: 1
+  brooch Total: 10  Correct: 10 Miss: 0
+  Word broach 准确率: 1  召回率: 0.9  F1测度: 0.947368
+  Word brooch 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+
+
+  by Total: 10  Correct: 4 Miss: 6
+  bye Total: 6  Correct: 0 Miss: 6
+  buy Total: 10  Correct: 10 Miss: 0
+  Word by 准确率: 0.8  召回率: 0.4  F1测度: 0.533333
+  Word bye 准确率: -1  召回率: 0  F1测度: 0
+  Word buy 准确率: 0.47619  召回率: 1  F1测度: 0.645161
+
+
+  cache Total: 10  Correct: 9 Miss: 1
+  cash Total: 10  Correct: 2 Miss: 8
+  Word cache 准确率: 0.529412  召回率: 0.9  F1测度: 0.666667
+  Word cash 准确率: 0.666667  召回率: 0.2  F1测度: 0.307692
+
+
+  can Total: 10  Correct: 9 Miss: 1
+  may Total: 10  Correct: 2 Miss: 8
+  Word can 准确率: 0.529412  召回率: 0.9  F1测度: 0.666667
+  Word may 准确率: 0.666667  召回率: 0.2  F1测度: 0.307692
+
+
+  canvas Total: 12  Correct: 9 Miss: 3
+  canvass Total: 10  Correct: 8 Miss: 2
+  Word canvas 准确率: 0.818182  召回率: 0.75  F1测度: 0.782609
+  Word canvass 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  capital Total: 10  Correct: 10 Miss: 0
+  capitol Total: 10  Correct: 9 Miss: 1
+  Word capital 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+  Word capitol 准确率: 1  召回率: 0.9  F1测度: 0.947368
+
+
+  censor Total: 10  Correct: 6 Miss: 4
+  censure Total: 10  Correct: 9 Miss: 1
+  sensor Total: 10  Correct: 4 Miss: 6
+  Word censor 准确率: 0.461538  召回率: 0.6  F1测度: 0.521739
+  Word censure 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word sensor 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  cereal Total: 10  Correct: 10 Miss: 0
+  serial Total: 10  Correct: 9 Miss: 1
+  Word cereal 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+  Word serial 准确率: 1  召回率: 0.9  F1测度: 0.947368
+
+
+  chafe Total: 8  Correct: 7 Miss: 1
+  chaff Total: 10  Correct: 10 Miss: 0
+  Word chafe 准确率: 1  召回率: 0.875  F1测度: 0.933333
+  Word chaff 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+
+
+  chord Total: 12  Correct: 10 Miss: 2
+  cord Total: 10  Correct: 7 Miss: 3
+  Word chord 准确率: 0.769231  召回率: 0.833333  F1测度: 0.8
+  Word cord 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  cite Total: 11  Correct: 8 Miss: 3
+  sight Total: 10  Correct: 4 Miss: 6
+  site Total: 10  Correct: 6 Miss: 4
+  Word cite 准确率: 0.444444  召回率: 0.727273  F1测度: 0.551724
+  Word sight 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+  Word site 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  climactic Total: 10  Correct: 9 Miss: 1
+  climatic Total: 10  Correct: 7 Miss: 3
+  Word climactic 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word climatic 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  clothes Total: 10  Correct: 9 Miss: 1
+  cloths Total: 10  Correct: 6 Miss: 4
+  Word clothes 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word cloths 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  coarse Total: 10  Correct: 8 Miss: 2
+  course Total: 10  Correct: 8 Miss: 2
+  Word coarse 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word course 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  collaborate Total: 10  Correct: 10 Miss: 0
+  corroborate Total: 7  Correct: 3 Miss: 4
+  Word collaborate 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word corroborate 准确率: 1  召回率: 0.428571  F1测度: 0.6
+
+
+  compare Total: 10  Correct: 10 Miss: 0
+  contrast Total: 10  Correct: 10 Miss: 0
+  Word compare 准确率: 1  召回率: 1  F1测度: 1
+  Word contrast 准确率: 1  召回率: 1  F1测度: 1
+
+
+  complement Total: 12  Correct: 11 Miss: 1
+  compliment Total: 10  Correct: 4 Miss: 6
+  Word complement 准确率: 0.647059  召回率: 0.916667  F1测度: 0.758621
+  Word compliment 准确率: 0.8  召回率: 0.4  F1测度: 0.533333
+
+
+  compose Total: 11  Correct: 9 Miss: 2
+  comprise Total: 10  Correct: 4 Miss: 6
+  Word compose 准确率: 0.6  召回率: 0.818182  F1测度: 0.692308
+  Word comprise 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+
+
+  concurrent Total: 10  Correct: 9 Miss: 1
+  consecutive Total: 10  Correct: 7 Miss: 3
+  Word concurrent 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word consecutive 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  confident Total: 10  Correct: 2 Miss: 8
+  confidant Total: 11  Correct: 6 Miss: 5
+  confidante Total: 10  Correct: 8 Miss: 2
+  Word confident 准确率: 1  召回率: 0.2  F1测度: 0.333333
+  Word confidant 准确率: 0.461538  召回率: 0.545455  F1测度: 0.5
+  Word confidante 准确率: 0.5  召回率: 0.8  F1测度: 0.615385
+
+
+  conform Total: 11  Correct: 7 Miss: 4
+  confirm Total: 10  Correct: 10 Miss: 0
+  Word conform 准确率: 1  召回率: 0.636364  F1测度: 0.777778
+  Word confirm 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+
+
+  congenial Total: 10  Correct: 10 Miss: 0
+  congenital Total: 11  Correct: 9 Miss: 2
+  Word congenial 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word congenital 准确率: 1  召回率: 0.818182  F1测度: 0.9
+
+
+  connote Total: 6  Correct: 6 Miss: 0
+  denote Total: 10  Correct: 10 Miss: 0
+  Word connote 准确率: 1  召回率: 1  F1测度: 1
+  Word denote 准确率: 1  召回率: 1  F1测度: 1
+
+
+  conscience Total: 10  Correct: 10 Miss: 0
+  conscious Total: 10  Correct: 6 Miss: 4
+  Word conscience 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word conscious 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  consul Total: 10  Correct: 8 Miss: 2
+  council Total: 11  Correct: 4 Miss: 7
+  counsel Total: 11  Correct: 9 Miss: 2
+  Word consul 准确率: 0.571429  召回率: 0.8  F1测度: 0.666667
+  Word council 准确率: 0.666667  召回率: 0.363636  F1测度: 0.470588
+  Word counsel 准确率: 0.75  召回率: 0.818182  F1测度: 0.782609
+
+
+  continual Total: 10  Correct: 7 Miss: 3
+  continuous Total: 10  Correct: 8 Miss: 2
+  Word continual 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word continuous 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  coral Total: 10  Correct: 10 Miss: 0
+  corral Total: 10  Correct: 7 Miss: 3
+  Word coral 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+  Word corral 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  corps Total: 10  Correct: 9 Miss: 1
+  core Total: 10  Correct: 9 Miss: 1
+  corpse Total: 10  Correct: 6 Miss: 4
+  Word corps 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word core 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+  Word corpse 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  correspondence Total: 10  Correct: 10 Miss: 0
+  correspondents Total: 10  Correct: 8 Miss: 2
+  Word correspondence 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word correspondents 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  costume Total: 10  Correct: 10 Miss: 0
+  custom Total: 10  Correct: 5 Miss: 5
+  Word costume 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word custom 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  creak Total: 10  Correct: 9 Miss: 1
+  creek Total: 10  Correct: 8 Miss: 2
+  Word creak 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word creek 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  credible Total: 10  Correct: 9 Miss: 1
+  creditable Total: 10  Correct: 7 Miss: 3
+  Word credible 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word creditable 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  criteria Total: 10  Correct: 10 Miss: 0
+  criterion Total: 10  Correct: 8 Miss: 2
+  Word criteria 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word criterion 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  cue Total: 10  Correct: 9 Miss: 1
+  queue Total: 10  Correct: 9 Miss: 1
+  Word cue 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word queue 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  curb Total: 10  Correct: 9 Miss: 1
+  kerb Total: 10  Correct: 8 Miss: 2
+  Word curb 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word kerb 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  currant Total: 10  Correct: 9 Miss: 1
+  current Total: 11  Correct: 7 Miss: 4
+  Word currant 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word current 准确率: 0.875  召回率: 0.636364  F1测度: 0.736842
+
+
+  dairy Total: 11  Correct: 10 Miss: 1
+  diary Total: 10  Correct: 8 Miss: 2
+  Word dairy 准确率: 0.833333  召回率: 0.909091  F1测度: 0.869565
+  Word diary 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  decent Total: 10  Correct: 6 Miss: 4
+  descent Total: 10  Correct: 7 Miss: 3
+  dissent Total: 10  Correct: 8 Miss: 2
+  Word decent 准确率: 0.6  召回率: 0.6  F1测度: 0.6
+  Word descent 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word dissent 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  deduction Total: 10  Correct: 10 Miss: 0
+  induction Total: 11  Correct: 5 Miss: 6
+  Word deduction 准确率: 0.625  召回率: 1  F1测度: 0.769231
+  Word induction 准确率: 1  召回率: 0.454545  F1测度: 0.625
+
+
+  definite Total: 10  Correct: 8 Miss: 2
+  definitive Total: 11  Correct: 10 Miss: 1
+  Word definite 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+  Word definitive 准确率: 0.833333  召回率: 0.909091  F1测度: 0.869565
+
+
+  defuse Total: 10  Correct: 9 Miss: 1
+  diffuse Total: 10  Correct: 4 Miss: 6
+  Word defuse 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word diffuse 准确率: 0.8  召回率: 0.4  F1测度: 0.533333
+
+
+  dependant Total: 10  Correct: 8 Miss: 2
+  dependent Total: 10  Correct: 8 Miss: 2
+  Word dependant 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word dependent 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  desert Total: 9  Correct: 9 Miss: 0
+  dessert Total: 10  Correct: 5 Miss: 5
+  Word desert 准确率: 0.642857  召回率: 1  F1测度: 0.782609
+  Word dessert 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  device Total: 10  Correct: 7 Miss: 3
+  devise Total: 10  Correct: 7 Miss: 3
+  Word device 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+  Word devise 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  discreet Total: 10  Correct: 8 Miss: 2
+  discrete Total: 11  Correct: 9 Miss: 2
+  Word discreet 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word discrete 准确率: 0.818182  召回率: 0.818182  F1测度: 0.818182
+
+
+  disinterested Total: 10  Correct: 9 Miss: 1
+  uninterested Total: 11  Correct: 6 Miss: 5
+  Word disinterested 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+  Word uninterested 准确率: 0.857143  召回率: 0.545455  F1测度: 0.666667
+
+
+  dived Total: 10  Correct: 10 Miss: 0
+  dove Total: 11  Correct: 3 Miss: 8
+  Word dived 准确率: 0.555556  召回率: 1  F1测度: 0.714286
+  Word dove 准确率: 1  召回率: 0.272727  F1测度: 0.428571
+
+
+  divers Total: 10  Correct: 9 Miss: 1
+  diverse Total: 10  Correct: 7 Miss: 3
+  Word divers 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word diverse 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  draught Total: 10  Correct: 7 Miss: 3
+  draft Total: 10  Correct: 10 Miss: 0
+  Word draught 准确率: 1  召回率: 0.7  F1测度: 0.823529
+  Word draft 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+
+
+  draw Total: 10  Correct: 10 Miss: 0
+  drawer Total: 10  Correct: 6 Miss: 4
+  Word draw 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word drawer 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  dual Total: 10  Correct: 9 Miss: 1
+  duel Total: 11  Correct: 7 Miss: 4
+  Word dual 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word duel 准确率: 0.875  召回率: 0.636364  F1测度: 0.736842
+
+
+  e.g. Total: 10  Correct: 9 Miss: 1
+  i.e. Total: 7  Correct: 1 Miss: 6
+  Word e.g. 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word i.e. 准确率: 0.5  召回率: 0.142857  F1测度: 0.222222
+
+
+  each Total: 11  Correct: 8 Miss: 3
+  every Total: 10  Correct: 5 Miss: 5
+  Word each 准确率: 0.615385  召回率: 0.727273  F1测度: 0.666667
+  Word every 准确率: 0.625  召回率: 0.5  F1测度: 0.555556
+
+
+  economic Total: 10  Correct: 7 Miss: 3
+  economical Total: 10  Correct: 7 Miss: 3
+  Word economic 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+  Word economical 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  effect Total: 11  Correct: 7 Miss: 4
+  affect Total: 11  Correct: 8 Miss: 3
+  Word effect 准确率: 0.7  召回率: 0.636364  F1测度: 0.666667
+  Word affect 准确率: 0.666667  召回率: 0.727273  F1测度: 0.695652
+
+
+  effective Total: 10  Correct: 10 Miss: 0
+  effectual Total: 8  Correct: 4 Miss: 4
+  Word effective 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word effectual 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  elicit Total: 10  Correct: 9 Miss: 1
+  illicit Total: 10  Correct: 8 Miss: 2
+  Word elicit 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word illicit 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  empathy Total: 10  Correct: 9 Miss: 1
+  sympathy Total: 10  Correct: 9 Miss: 1
+  Word empathy 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word sympathy 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  enquiry Total: 11  Correct: 9 Miss: 2
+  inquiry Total: 10  Correct: 6 Miss: 4
+  Word enquiry 准确率: 0.692308  召回率: 0.818182  F1测度: 0.75
+  Word inquiry 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  entomology Total: 6  Correct: 5 Miss: 1
+  etymology Total: 10  Correct: 9 Miss: 1
+  Word entomology 准确率: 0.833333  召回率: 0.833333  F1测度: 0.833333
+  Word etymology 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  essence Total: 11  Correct: 8 Miss: 3
+  sense Total: 10  Correct: 6 Miss: 4
+  Word essence 准确率: 0.666667  召回率: 0.727273  F1测度: 0.695652
+  Word sense 准确率: 0.666667  召回率: 0.6  F1测度: 0.631579
+
+
+  ethereal Total: 10  Correct: 6 Miss: 4
+  ephemeral Total: 10  Correct: 9 Miss: 1
+  Word ethereal 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+  Word ephemeral 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+
+
+  everyone Total: 10  Correct: 5 Miss: 5
+  every one Total: 10  Correct: 6 Miss: 4
+  Word everyone 准确率: 0.555556  召回率: 0.5  F1测度: 0.526316
+  Word every one 准确率: 0.545455  召回率: 0.6  F1测度: 0.571429
+
+
+  exercise Total: 10  Correct: 9 Miss: 1
+  exorcise Total: 9  Correct: 7 Miss: 2
+  Word exercise 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word exorcise 准确率: 0.875  召回率: 0.777778  F1测度: 0.823529
+
+
+  explicit Total: 10  Correct: 9 Miss: 1
+  implicit Total: 11  Correct: 5 Miss: 6
+  Word explicit 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word implicit 准确率: 0.833333  召回率: 0.454545  F1测度: 0.588235
+
+
+  fair Total: 10  Correct: 7 Miss: 3
+  fare Total: 10  Correct: 8 Miss: 2
+  Word fair 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word fare 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  few Total: 10  Correct: 8 Miss: 2
+  fewer Total: 10  Correct: 7 Miss: 3
+  less Total: 11  Correct: 5 Miss: 6
+  Word few 准确率: 0.5  召回率: 0.8  F1测度: 0.615385
+  Word fewer 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word less 准确率: 0.833333  召回率: 0.454545  F1测度: 0.588235
+
+
+  figuratively Total: 10  Correct: 8 Miss: 2
+  literally Total: 10  Correct: 10 Miss: 0
+  Word figuratively 准确率: 1  召回率: 0.8  F1测度: 0.888889
+  Word literally 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+
+
+  flack Total: 9  Correct: 6 Miss: 3
+  flak Total: 10  Correct: 9 Miss: 1
+  Word flack 准确率: 0.857143  召回率: 0.666667  F1测度: 0.75
+  Word flak 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+
+
+  flammable Total: 10  Correct: 6 Miss: 4
+  inflammable Total: 10  Correct: 6 Miss: 4
+  Word flammable 准确率: 0.6  召回率: 0.6  F1测度: 0.6
+  Word inflammable 准确率: 0.6  召回率: 0.6  F1测度: 0.6
+
+
+  flare Total: 10  Correct: 7 Miss: 3
+  flair Total: 10  Correct: 10 Miss: 0
+  Word flare 准确率: 1  召回率: 0.7  F1测度: 0.823529
+  Word flair 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+
+
+  flaunt Total: 10  Correct: 10 Miss: 0
+  flout Total: 10  Correct: 7 Miss: 3
+  Word flaunt 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+  Word flout 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  forcible Total: 10  Correct: 8 Miss: 2
+  forceful Total: 10  Correct: 10 Miss: 0
+  Word forcible 准确率: 1  召回率: 0.8  F1测度: 0.888889
+  Word forceful 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+
+
+  forego Total: 10  Correct: 5 Miss: 5
+  forgo Total: 10  Correct: 8 Miss: 2
+  Word forego 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+  Word forgo 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+
+
+  foregone Total: 10  Correct: 9 Miss: 1
+  forgone Total: 8  Correct: 6 Miss: 2
+  Word foregone 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word forgone 准确率: 0.857143  召回率: 0.75  F1测度: 0.8
+
+
+  foreword Total: 9  Correct: 8 Miss: 1
+  forward Total: 11  Correct: 7 Miss: 4
+  Word foreword 准确率: 0.666667  召回率: 0.888889  F1测度: 0.761905
+  Word forward 准确率: 0.875  召回率: 0.636364  F1测度: 0.736842
+
+
+  formerly Total: 10  Correct: 7 Miss: 3
+  formally Total: 11  Correct: 10 Miss: 1
+  Word formerly 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+  Word formally 准确率: 0.769231  召回率: 0.909091  F1测度: 0.833333
+
+
+  fortuitous Total: 10  Correct: 9 Miss: 1
+  fortunate Total: 10  Correct: 6 Miss: 4
+  Word fortuitous 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word fortunate 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  foul Total: 10  Correct: 9 Miss: 1
+  fowl Total: 10  Correct: 9 Miss: 1
+  Word foul 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word fowl 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  found Total: 11  Correct: 6 Miss: 5
+  founded Total: 11  Correct: 5 Miss: 6
+  Word found 准确率: 0.5  召回率: 0.545455  F1测度: 0.521739
+  Word founded 准确率: 0.5  召回率: 0.454545  F1测度: 0.47619
+
+
+  founder Total: 11  Correct: 9 Miss: 2
+  flounder Total: 10  Correct: 10 Miss: 0
+  Word founder 准确率: 1  召回率: 0.818182  F1测度: 0.9
+  Word flounder 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+
+
+  fourth Total: 10  Correct: 9 Miss: 1
+  forth Total: 10  Correct: 10 Miss: 0
+  Word fourth 准确率: 1  召回率: 0.9  F1测度: 0.947368
+  Word forth 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+
+
+  freeze Total: 10  Correct: 5 Miss: 5
+  frieze Total: 10  Correct: 4 Miss: 6
+  Word freeze 准确率: 0.454545  召回率: 0.5  F1测度: 0.47619
+  Word frieze 准确率: 0.444444  召回率: 0.4  F1测度: 0.421053
+
+
+  further Total: 10  Correct: 6 Miss: 4
+  farther Total: 10  Correct: 9 Miss: 1
+  Word further 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+  Word farther 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+
+
+  gambit Total: 10  Correct: 9 Miss: 1
+  gamut Total: 11  Correct: 9 Miss: 2
+  Word gambit 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word gamut 准确率: 0.9  召回率: 0.818182  F1测度: 0.857143
+
+
+  gorilla Total: 10  Correct: 9 Miss: 1
+  guerrilla Total: 10  Correct: 7 Miss: 3
+  Word gorilla 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word guerrilla 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  gray Total: 11  Correct: 9 Miss: 2
+  grey Total: 10  Correct: 4 Miss: 6
+  Word gray 准确率: 0.6  召回率: 0.818182  F1测度: 0.692308
+  Word grey 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+
+
+  grisly Total: 10  Correct: 10 Miss: 0
+  grizzly Total: 10  Correct: 10 Miss: 0
+  Word grisly 准确率: 1  召回率: 1  F1测度: 1
+  Word grizzly 准确率: 1  召回率: 1  F1测度: 1
+
+
+  hail Total: 10  Correct: 8 Miss: 2
+  hale Total: 10  Correct: 4 Miss: 6
+  Word hail 准确率: 0.571429  召回率: 0.8  F1测度: 0.666667
+  Word hale 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+
+
+  hangar Total: 10  Correct: 9 Miss: 1
+  hanger Total: 11  Correct: 8 Miss: 3
+  Word hangar 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word hanger 准确率: 0.888889  召回率: 0.727273  F1测度: 0.8
+
+
+  hanged Total: 10  Correct: 8 Miss: 2
+  hung Total: 10  Correct: 6 Miss: 4
+  Word hanged 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+  Word hung 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  hear Total: 10  Correct: 10 Miss: 0
+  here Total: 10  Correct: 3 Miss: 7
+  Word hear 准确率: 0.588235  召回率: 1  F1测度: 0.740741
+  Word here 准确率: 1  召回率: 0.3  F1测度: 0.461538
+
+
+  herd Total: 10  Correct: 5 Miss: 5
+  heard Total: 10  Correct: 7 Miss: 3
+  Word herd 准确率: 0.625  召回率: 0.5  F1测度: 0.555556
+  Word heard 准确率: 0.583333  召回率: 0.7  F1测度: 0.636364
+
+
+  heroin Total: 10  Correct: 8 Miss: 2
+  heroine Total: 11  Correct: 8 Miss: 3
+  Word heroin 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+  Word heroine 准确率: 0.8  召回率: 0.727273  F1测度: 0.761905
+
+
+  historic Total: 11  Correct: 8 Miss: 3
+  historical Total: 10  Correct: 9 Miss: 1
+  Word historic 准确率: 0.888889  召回率: 0.727273  F1测度: 0.8
+  Word historical 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+
+
+  hoard Total: 10  Correct: 8 Miss: 2
+  horde Total: 10  Correct: 5 Miss: 5
+  Word hoard 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+  Word horde 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+
+
+  hole Total: 10  Correct: 9 Miss: 1
+  whole Total: 11  Correct: 6 Miss: 5
+  Word hole 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+  Word whole 准确率: 0.857143  召回率: 0.545455  F1测度: 0.666667
+
+
+  hone Total: 9  Correct: 3 Miss: 6
+  home Total: 10  Correct: 10 Miss: 0
+  Word hone 准确率: 1  召回率: 0.333333  F1测度: 0.5
+  Word home 准确率: 0.625  召回率: 1  F1测度: 0.769231
+
+
+  hour Total: 10  Correct: 8 Miss: 2
+  our Total: 10  Correct: 6 Miss: 4
+  Word hour 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+  Word our 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  imitated Total: 10  Correct: 10 Miss: 0
+  intimated Total: 11  Correct: 7 Miss: 4
+  Word imitated 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word intimated 准确率: 1  召回率: 0.636364  F1测度: 0.777778
+
+
+  immemorial Total: 10  Correct: 9 Miss: 1
+  immortal Total: 10  Correct: 9 Miss: 1
+  immoral Total: 10  Correct: 6 Miss: 4
+  Word immemorial 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word immortal 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word immoral 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  impending Total: 10  Correct: 7 Miss: 3
+  pending Total: 10  Correct: 5 Miss: 5
+  Word impending 准确率: 0.583333  召回率: 0.7  F1测度: 0.636364
+  Word pending 准确率: 0.625  召回率: 0.5  F1测度: 0.555556
+
+
+  imply Total: 10  Correct: 3 Miss: 7
+  infer Total: 10  Correct: 6 Miss: 4
+  implicate Total: 10  Correct: 9 Miss: 1
+  Word imply 准确率: 1  召回率: 0.3  F1测度: 0.461538
+  Word infer 准确率: 0.666667  召回率: 0.6  F1测度: 0.631579
+  Word implicate 准确率: 0.5  召回率: 0.9  F1测度: 0.642857
+
+
+  inchoate Total: 9  Correct: 6 Miss: 3
+  incoherent Total: 11  Correct: 8 Miss: 3
+  Word inchoate 准确率: 0.666667  召回率: 0.666667  F1测度: 0.666667
+  Word incoherent 准确率: 0.727273  召回率: 0.727273  F1测度: 0.727273
+
+
+  incidence Total: 10  Correct: 10 Miss: 0
+  incidents Total: 10  Correct: 6 Miss: 4
+  Word incidence 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word incidents 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  incite Total: 8  Correct: 7 Miss: 1
+  insight Total: 11  Correct: 5 Miss: 6
+  Word incite 准确率: 0.538462  召回率: 0.875  F1测度: 0.666667
+  Word insight 准确率: 0.833333  召回率: 0.454545  F1测度: 0.588235
+
+
+  incredulous Total: 10  Correct: 8 Miss: 2
+  incredible Total: 10  Correct: 9 Miss: 1
+  Word incredulous 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+  Word incredible 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+
+
+  ingenious Total: 10  Correct: 9 Miss: 1
+  ingenuous Total: 8  Correct: 2 Miss: 6
+  Word ingenious 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word ingenuous 准确率: 0.666667  召回率: 0.25  F1测度: 0.363636
+
+
+  into Total: 10  Correct: 9 Miss: 1
+  onto Total: 10  Correct: 3 Miss: 7
+  Word into 准确率: 0.5625  召回率: 0.9  F1测度: 0.692308
+  Word onto 准确率: 0.75  召回率: 0.3  F1测度: 0.428571
+
+
+  intolerable Total: 10  Correct: 9 Miss: 1
+  intolerant Total: 10  Correct: 7 Miss: 3
+  Word intolerable 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word intolerant 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  knew Total: 10  Correct: 10 Miss: 0
+  new Total: 10  Correct: 6 Miss: 4
+  Word knew 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word new 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  latent Total: 10  Correct: 9 Miss: 1
+  patent Total: 11  Correct: 7 Miss: 4
+  Word latent 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word patent 准确率: 0.875  召回率: 0.636364  F1测度: 0.736842
+
+
+  later Total: 10  Correct: 9 Miss: 1
+  latter Total: 10  Correct: 8 Miss: 2
+  Word later 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word latter 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  law Total: 10  Correct: 10 Miss: 0
+  lore Total: 10  Correct: 2 Miss: 8
+  Word law 准确率: 0.555556  召回率: 1  F1测度: 0.714286
+  Word lore 准确率: 1  召回率: 0.2  F1测度: 0.333333
+
+
+  lay Total: 10  Correct: 8 Miss: 2
+  lie Total: 11  Correct: 5 Miss: 6
+  Word lay 准确率: 0.571429  召回率: 0.8  F1测度: 0.666667
+  Word lie 准确率: 0.714286  召回率: 0.454545  F1测度: 0.555556
+
+
+  lead Total: 10  Correct: 9 Miss: 1
+  led Total: 10  Correct: 4 Miss: 6
+  Word lead 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word led 准确率: 0.8  召回率: 0.4  F1测度: 0.533333
+
+
+  learned Total: 10  Correct: 8 Miss: 2
+  learnt Total: 10  Correct: 6 Miss: 4
+  Word learned 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+  Word learnt 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  lesson Total: 10  Correct: 8 Miss: 2
+  lessen Total: 10  Correct: 8 Miss: 2
+  Word lesson 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word lessen 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  let Total: 10  Correct: 1 Miss: 9
+  let's Total: 10  Correct: 10 Miss: 0
+  Word let 准确率: 1  召回率: 0.1  F1测度: 0.181818
+  Word let's 准确率: 0.526316  召回率: 1  F1测度: 0.689655
+
+
+  liable Total: 10  Correct: 8 Miss: 2
+  libel Total: 10  Correct: 8 Miss: 2
+  Word liable 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word libel 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  licence Total: 10  Correct: 10 Miss: 0
+  license Total: 10  Correct: 8 Miss: 2
+  Word licence 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word license 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  lightening Total: 11  Correct: 9 Miss: 2
+  lightning Total: 10  Correct: 7 Miss: 3
+  Word lightening 准确率: 0.75  召回率: 0.818182  F1测度: 0.782609
+  Word lightning 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  loath Total: 10  Correct: 10 Miss: 0
+  loathe Total: 10  Correct: 1 Miss: 9
+  Word loath 准确率: 0.526316  召回率: 1  F1测度: 0.689655
+  Word loathe 准确率: 1  召回率: 0.1  F1测度: 0.181818
+
+
+  loose Total: 10  Correct: 9 Miss: 1
+  lose Total: 10  Correct: 7 Miss: 3
+  Word loose 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word lose 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  luxurious Total: 10  Correct: 10 Miss: 0
+  luxuriant Total: 10  Correct: 6 Miss: 4
+  Word luxurious 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word luxuriant 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  manner Total: 10  Correct: 9 Miss: 1
+  manor Total: 10  Correct: 8 Miss: 2
+  Word manner 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word manor 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  mantel Total: 10  Correct: 9 Miss: 1
+  mantle Total: 10  Correct: 6 Miss: 4
+  Word mantel 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word mantle 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  marinade Total: 11  Correct: 9 Miss: 2
+  marinate Total: 6  Correct: 6 Miss: 0
+  Word marinade 准确率: 1  召回率: 0.818182  F1测度: 0.9
+  Word marinate 准确率: 0.75  召回率: 1  F1测度: 0.857143
+
+
+  marital Total: 10  Correct: 7 Miss: 3
+  martial Total: 10  Correct: 7 Miss: 3
+  Word marital 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+  Word martial 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  marshal Total: 10  Correct: 7 Miss: 3
+  marshall Total: 11  Correct: 7 Miss: 4
+  Word marshal 准确率: 0.636364  召回率: 0.7  F1测度: 0.666667
+  Word marshall 准确率: 0.7  召回率: 0.636364  F1测度: 0.666667
+
+
+  may Total: 10  Correct: 8 Miss: 2
+  might Total: 10  Correct: 5 Miss: 5
+  Word may 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+  Word might 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+
+
+  meter Total: 11  Correct: 8 Miss: 3
+  metre Total: 11  Correct: 10 Miss: 1
+  Word meter 准确率: 0.888889  召回率: 0.727273  F1测度: 0.8
+  Word metre 准确率: 0.769231  召回率: 0.909091  F1测度: 0.833333
+
+
+  militate Total: 10  Correct: 7 Miss: 3
+  mitigate Total: 10  Correct: 10 Miss: 0
+  Word militate 准确率: 1  召回率: 0.7  F1测度: 0.823529
+  Word mitigate 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+
+
+  moral Total: 10  Correct: 10 Miss: 0
+  morale Total: 10  Correct: 5 Miss: 5
+  Word moral 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word morale 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  mordant Total: 7  Correct: 3 Miss: 4
+  trenchant Total: 11  Correct: 6 Miss: 5
+  Word mordant 准确率: 0.375  召回率: 0.428571  F1测度: 0.4
+  Word trenchant 准确率: 0.6  召回率: 0.545455  F1测度: 0.571429
+
+
+  mucous Total: 11  Correct: 10 Miss: 1
+  mucus Total: 10  Correct: 5 Miss: 5
+  Word mucous 准确率: 0.666667  召回率: 0.909091  F1测度: 0.769231
+  Word mucus 准确率: 0.833333  召回率: 0.5  F1测度: 0.625
+
+
+  mute Total: 10  Correct: 5 Miss: 5
+  moot Total: 10  Correct: 9 Miss: 1
+  Word mute 准确率: 0.833333  召回率: 0.5  F1测度: 0.625
+  Word moot 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+
+
+  nauseous Total: 10  Correct: 8 Miss: 2
+  nauseated Total: 7  Correct: 6 Miss: 1
+  nauseating Total: 10  Correct: 4 Miss: 6
+  Word nauseous 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+  Word nauseated 准确率: 0.428571  召回率: 0.857143  F1测度: 0.571429
+  Word nauseating 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  notable Total: 11  Correct: 8 Miss: 3
+  noticeable Total: 10  Correct: 5 Miss: 5
+  Word notable 准确率: 0.615385  召回率: 0.727273  F1测度: 0.666667
+  Word noticeable 准确率: 0.625  召回率: 0.5  F1测度: 0.555556
+
+
+  obeisance Total: 7  Correct: 6 Miss: 1
+  obsequious Total: 8  Correct: 3 Miss: 5
+  Word obeisance 准确率: 0.545455  召回率: 0.857143  F1测度: 0.666667
+  Word obsequious 准确率: 0.75  召回率: 0.375  F1测度: 0.5
+
+
+  object Total: 11  Correct: 9 Miss: 2
+  subject Total: 11  Correct: 6 Miss: 5
+  Word object 准确率: 0.642857  召回率: 0.818182  F1测度: 0.72
+  Word subject 准确率: 0.75  召回率: 0.545455  F1测度: 0.631579
+
+
+  overdo Total: 10  Correct: 9 Miss: 1
+  overdue Total: 10  Correct: 8 Miss: 2
+  Word overdo 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word overdue 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  palate Total: 10  Correct: 8 Miss: 2
+  palette Total: 10  Correct: 7 Miss: 3
+  Word palate 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+  Word palette 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  pamper Total: 7  Correct: 7 Miss: 0
+  pander Total: 10  Correct: 4 Miss: 6
+  Word pamper 准确率: 0.538462  召回率: 1  F1测度: 0.7
+  Word pander 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  past Total: 10  Correct: 6 Miss: 4
+  passed Total: 10  Correct: 8 Miss: 2
+  Word past 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+  Word passed 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+
+
+  pasture Total: 10  Correct: 7 Miss: 3
+  pastor Total: 10  Correct: 10 Miss: 0
+  Word pasture 准确率: 1  召回率: 0.7  F1测度: 0.823529
+  Word pastor 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+
+
+  patience Total: 10  Correct: 10 Miss: 0
+  patients Total: 11  Correct: 6 Miss: 5
+  Word patience 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word patients 准确率: 1  召回率: 0.545455  F1测度: 0.705882
+
+
+  peace Total: 10  Correct: 10 Miss: 0
+  piece Total: 10  Correct: 7 Miss: 3
+  Word peace 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+  Word piece 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  pedal Total: 10  Correct: 10 Miss: 0
+  peddle Total: 10  Correct: 3 Miss: 7
+  Word pedal 准确率: 0.588235  召回率: 1  F1测度: 0.740741
+  Word peddle 准确率: 1  召回率: 0.3  F1测度: 0.461538
+
+
+  peek Total: 10  Correct: 5 Miss: 5
+  pique Total: 10  Correct: 4 Miss: 6
+  peak Total: 10  Correct: 9 Miss: 1
+  Word peek 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+  Word pique 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+  Word peak 准确率: 0.529412  召回率: 0.9  F1测度: 0.666667
+
+
+  peer Total: 10  Correct: 7 Miss: 3
+  pier Total: 10  Correct: 8 Miss: 2
+  Word peer 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word pier 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  penultimate Total: 10  Correct: 7 Miss: 3
+  ultimate Total: 11  Correct: 7 Miss: 4
+  Word penultimate 准确率: 0.636364  召回率: 0.7  F1测度: 0.666667
+  Word ultimate 准确率: 0.7  召回率: 0.636364  F1测度: 0.666667
+
+
+  personal Total: 10  Correct: 9 Miss: 1
+  personnel Total: 10  Correct: 6 Miss: 4
+  Word personal 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word personnel 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  perspective Total: 10  Correct: 9 Miss: 1
+  prospective Total: 10  Correct: 8 Miss: 2
+  Word perspective 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word prospective 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  piquant Total: 11  Correct: 9 Miss: 2
+  pique Total: 10  Correct: 7 Miss: 3
+  Word piquant 准确率: 0.75  召回率: 0.818182  F1测度: 0.782609
+  Word pique 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+
+
+  plain Total: 10  Correct: 10 Miss: 0
+  plane Total: 10  Correct: 4 Miss: 6
+  Word plain 准确率: 0.625  召回率: 1  F1测度: 0.769231
+  Word plane 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  pole Total: 10  Correct: 10 Miss: 0
+  poll Total: 10  Correct: 7 Miss: 3
+  Word pole 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+  Word poll 准确率: 1  召回率: 0.7  F1测度: 0.823529
+
+
+  pore Total: 11  Correct: 6 Miss: 5
+  pour Total: 11  Correct: 8 Miss: 3
+  poor Total: 10  Correct: 6 Miss: 4
+  Word pore 准确率: 0.666667  召回率: 0.545455  F1测度: 0.6
+  Word pour 准确率: 0.8  召回率: 0.727273  F1测度: 0.761905
+  Word poor 准确率: 0.461538  召回率: 0.6  F1测度: 0.521739
+
+
+  portent Total: 9  Correct: 6 Miss: 3
+  potent Total: 10  Correct: 5 Miss: 5
+  Word portent 准确率: 0.545455  召回率: 0.666667  F1测度: 0.6
+  Word potent 准确率: 0.625  召回率: 0.5  F1测度: 0.555556
+
+
+  practicable Total: 10  Correct: 10 Miss: 0
+  practical Total: 10  Correct: 5 Miss: 5
+  Word practicable 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word practical 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  practice Total: 10  Correct: 8 Miss: 2
+  practise Total: 10  Correct: 8 Miss: 2
+  Word practice 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word practise 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  pray Total: 11  Correct: 11 Miss: 0
+  prey Total: 10  Correct: 8 Miss: 2
+  Word pray 准确率: 0.846154  召回率: 1  F1测度: 0.916667
+  Word prey 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  precede Total: 11  Correct: 10 Miss: 1
+  proceed Total: 10  Correct: 6 Miss: 4
+  Word precede 准确率: 0.714286  召回率: 0.909091  F1测度: 0.8
+  Word proceed 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  precedence Total: 10  Correct: 9 Miss: 1
+  precedent Total: 10  Correct: 8 Miss: 2
+  Word precedence 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word precedent 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  premise Total: 10  Correct: 7 Miss: 3
+  premises Total: 10  Correct: 6 Miss: 4
+  Word premise 准确率: 0.636364  召回率: 0.7  F1测度: 0.666667
+  Word premises 准确率: 0.666667  召回率: 0.6  F1测度: 0.631579
+
+
+  presence Total: 10  Correct: 9 Miss: 1
+  presents Total: 10  Correct: 7 Miss: 3
+  Word presence 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word presents 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  principal Total: 11  Correct: 10 Miss: 1
+  principle Total: 10  Correct: 7 Miss: 3
+  Word principal 准确率: 0.769231  召回率: 0.909091  F1测度: 0.833333
+  Word principle 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  profit Total: 10  Correct: 9 Miss: 1
+  prophet Total: 10  Correct: 8 Miss: 2
+  Word profit 准确率: 0.818182  召回率: 0.9  F1测度: 0.857143
+  Word prophet 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  profligate Total: 10  Correct: 7 Miss: 3
+  prolific Total: 10  Correct: 9 Miss: 1
+  Word profligate 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+  Word prolific 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+
+
+  program Total: 10  Correct: 7 Miss: 3
+  programme Total: 10  Correct: 8 Miss: 2
+  Word program 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word programme 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  prophecy Total: 11  Correct: 8 Miss: 3
+  prophesy Total: 9  Correct: 7 Miss: 2
+  Word prophecy 准确率: 0.8  召回率: 0.727273  F1测度: 0.761905
+  Word prophesy 准确率: 0.7  召回率: 0.777778  F1测度: 0.736842
+
+
+  provided Total: 11  Correct: 10 Miss: 1
+  providing Total: 10  Correct: 7 Miss: 3
+  Word provided 准确率: 0.769231  召回率: 0.909091  F1测度: 0.833333
+  Word providing 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  quiet Total: 10  Correct: 8 Miss: 2
+  quit Total: 10  Correct: 8 Miss: 2
+  Word quiet 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word quit 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  quote Total: 10  Correct: 5 Miss: 5
+  quotation Total: 10  Correct: 7 Miss: 3
+  Word quote 准确率: 0.625  召回率: 0.5  F1测度: 0.555556
+  Word quotation 准确率: 0.583333  召回率: 0.7  F1测度: 0.636364
+
+
+  rain Total: 10  Correct: 7 Miss: 3
+  reign Total: 10  Correct: 7 Miss: 3
+  rein Total: 10  Correct: 5 Miss: 5
+  Word rain 准确率: 0.583333  召回率: 0.7  F1测度: 0.636364
+  Word reign 准确率: 0.583333  召回率: 0.7  F1测度: 0.636364
+  Word rein 准确率: 0.833333  召回率: 0.5  F1测度: 0.625
+
+
+  real Total: 10  Correct: 10 Miss: 0
+  really Total: 10  Correct: 5 Miss: 5
+  Word real 准确率: 0.666667  召回率: 1  F1测度: 0.8
+  Word really 准确率: 1  召回率: 0.5  F1测度: 0.666667
+
+
+  rebate Total: 10  Correct: 10 Miss: 0
+  refund Total: 11  Correct: 7 Miss: 4
+  Word rebate 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word refund 准确率: 1  召回率: 0.636364  F1测度: 0.777778
+
+
+  regimen Total: 11  Correct: 7 Miss: 4
+  regiment Total: 10  Correct: 8 Miss: 2
+  Word regimen 准确率: 0.777778  召回率: 0.636364  F1测度: 0.7
+  Word regiment 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+
+
+  reluctant Total: 10  Correct: 9 Miss: 1
+  reticent Total: 10  Correct: 7 Miss: 3
+  Word reluctant 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+  Word reticent 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  residence Total: 10  Correct: 10 Miss: 0
+  residents Total: 10  Correct: 4 Miss: 6
+  Word residence 准确率: 0.625  召回率: 1  F1测度: 0.769231
+  Word residents 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  respectable Total: 10  Correct: 9 Miss: 1
+  respectful Total: 10  Correct: 7 Miss: 3
+  respective Total: 10  Correct: 6 Miss: 4
+  Word respectable 准确率: 0.5625  召回率: 0.9  F1测度: 0.692308
+  Word respectful 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+  Word respective 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  respectfully Total: 10  Correct: 10 Miss: 0
+  respectively Total: 11  Correct: 5 Miss: 6
+  Word respectfully 准确率: 0.625  召回率: 1  F1测度: 0.769231
+  Word respectively 准确率: 1  召回率: 0.454545  F1测度: 0.625
+
+
+  restive Total: 10  Correct: 7 Miss: 3
+  restful Total: 10  Correct: 8 Miss: 2
+  Word restive 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word restful 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  retch Total: 6  Correct: 6 Miss: 0
+  wretch Total: 10  Correct: 4 Miss: 6
+  Word retch 准确率: 0.5  召回率: 1  F1测度: 0.666667
+  Word wretch 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  right Total: 9  Correct: 9 Miss: 0
+  rite Total: 11  Correct: 4 Miss: 7
+  write Total: 10  Correct: 6 Miss: 4
+  Word right 准确率: 0.5  召回率: 1  F1测度: 0.666667
+  Word rite 准确率: 1  召回率: 0.363636  F1测度: 0.533333
+  Word write 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  rise Total: 11  Correct: 8 Miss: 3
+  raise Total: 10  Correct: 10 Miss: 0
+  Word rise 准确率: 1  召回率: 0.727273  F1测度: 0.842105
+  Word raise 准确率: 0.769231  召回率: 1  F1测度: 0.869565
+
+
+  road Total: 10  Correct: 10 Miss: 0
+  rode Total: 10  Correct: 8 Miss: 2
+  Word road 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word rode 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  role Total: 10  Correct: 8 Miss: 2
+  roll Total: 10  Correct: 8 Miss: 2
+  Word role 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+  Word roll 准确率: 0.8  召回率: 0.8  F1测度: 0.8
+
+
+  sale Total: 10  Correct: 8 Miss: 2
+  sell Total: 11  Correct: 11 Miss: 0
+  sail Total: 10  Correct: 8 Miss: 2
+  Word sale 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+  Word sell 准确率: 0.846154  召回率: 1  F1测度: 0.916667
+  Word sail 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+
+
+  saw Total: 10  Correct: 8 Miss: 2
+  seen Total: 10  Correct: 3 Miss: 7
+  Word saw 准确率: 0.533333  召回率: 0.8  F1测度: 0.64
+  Word seen 准确率: 0.6  召回率: 0.3  F1测度: 0.4
+
+
+  scene Total: 11  Correct: 10 Miss: 1
+  seen Total: 10  Correct: 2 Miss: 8
+  Word scene 准确率: 0.555556  召回率: 0.909091  F1测度: 0.689655
+  Word seen 准确率: 0.666667  召回率: 0.2  F1测度: 0.307692
+
+
+  sceptic Total: 10  Correct: 8 Miss: 2
+  septic Total: 10  Correct: 6 Miss: 4
+  Word sceptic 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+  Word septic 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  sea Total: 10  Correct: 9 Miss: 1
+  see Total: 11  Correct: 6 Miss: 5
+  Word sea 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+  Word see 准确率: 0.857143  召回率: 0.545455  F1测度: 0.666667
+
+
+  seam Total: 10  Correct: 7 Miss: 3
+  seem Total: 10  Correct: 8 Miss: 2
+  Word seam 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word seem 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  sensual Total: 10  Correct: 7 Miss: 3
+  sensuous Total: 10  Correct: 8 Miss: 2
+  Word sensual 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word sensuous 准确率: 0.727273  召回率: 0.8  F1测度: 0.761905
+
+
+  serf Total: 10  Correct: 9 Miss: 1
+  surf Total: 11  Correct: 5 Miss: 6
+  Word serf 准确率: 0.6  召回率: 0.9  F1测度: 0.72
+  Word surf 准确率: 0.833333  召回率: 0.454545  F1测度: 0.588235
+
+
+  sever Total: 10  Correct: 10 Miss: 0
+  severe Total: 10  Correct: 8 Miss: 2
+  Word sever 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word severe 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  shall Total: 10  Correct: 10 Miss: 0
+  will Total: 10  Correct: 6 Miss: 4
+  Word shall 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word will 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  shear Total: 10  Correct: 10 Miss: 0
+  sheer Total: 10  Correct: 3 Miss: 7
+  Word shear 准确率: 0.588235  召回率: 1  F1测度: 0.740741
+  Word sheer 准确率: 1  召回率: 0.3  F1测度: 0.461538
+
+
+  shore Total: 10  Correct: 9 Miss: 1
+  sure Total: 10  Correct: 6 Miss: 4
+  Word shore 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word sure 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+  singly Total: 10  Correct: 10 Miss: 0
+  singularly Total: 11  Correct: 7 Miss: 4
+  Word singly 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word singularly 准确率: 1  召回率: 0.636364  F1测度: 0.777778
+
+
+  sit Total: 10  Correct: 7 Miss: 3
+  set Total: 11  Correct: 5 Miss: 6
+  seat Total: 10  Correct: 7 Miss: 3
+  Word sit 准确率: 0.583333  召回率: 0.7  F1测度: 0.636364
+  Word set 准确率: 0.833333  召回率: 0.454545  F1测度: 0.588235
+  Word seat 准确率: 0.538462  召回率: 0.7  F1测度: 0.608696
+
+
+  sole Total: 10  Correct: 8 Miss: 2
+  soul Total: 10  Correct: 5 Miss: 5
+  Word sole 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+  Word soul 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+
+
+  sometime Total: 10  Correct: 7 Miss: 3
+  sometimes Total: 10  Correct: 9 Miss: 1
+  Word sometime 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+  Word sometimes 准确率: 0.75  召回率: 0.9  F1测度: 0.818182
+
+
+  spelled Total: 10  Correct: 8 Miss: 2
+  spelt Total: 10  Correct: 4 Miss: 6
+  Word spelled 准确率: 0.571429  召回率: 0.8  F1测度: 0.666667
+  Word spelt 准确率: 0.666667  召回率: 0.4  F1测度: 0.5
+
+
+  spilled Total: 10  Correct: 7 Miss: 3
+  spilt Total: 10  Correct: 3 Miss: 7
+  Word spilled 准确率: 0.5  召回率: 0.7  F1测度: 0.583333
+  Word spilt 准确率: 0.5  召回率: 0.3  F1测度: 0.375
+
+
+  stationary Total: 10  Correct: 8 Miss: 2
+  stationery Total: 11  Correct: 6 Miss: 5
+  Word stationary 准确率: 0.615385  召回率: 0.8  F1测度: 0.695652
+  Word stationery 准确率: 0.75  召回率: 0.545455  F1测度: 0.631579
+
+
+  statue Total: 10  Correct: 8 Miss: 2
+  stature Total: 10  Correct: 7 Miss: 3
+  statute Total: 10  Correct: 10 Miss: 0
+  Word statue 准确率: 0.888889  召回率: 0.8  F1测度: 0.842105
+  Word stature 准确率: 0.777778  召回率: 0.7  F1测度: 0.736842
+  Word statute 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+
+
+  story Total: 11  Correct: 6 Miss: 5
+  storey Total: 10  Correct: 9 Miss: 1
+  Word story 准确率: 0.857143  召回率: 0.545455  F1测度: 0.666667
+  Word storey 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+
+
+  straight Total: 10  Correct: 10 Miss: 0
+  strait Total: 10  Correct: 8 Miss: 2
+  Word straight 准确率: 0.833333  召回率: 1  F1测度: 0.909091
+  Word strait 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  taut Total: 10  Correct: 6 Miss: 4
+  taunt Total: 10  Correct: 9 Miss: 1
+  Word taut 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+  Word taunt 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+
+
+  tenant Total: 11  Correct: 10 Miss: 1
+  tenet Total: 10  Correct: 7 Miss: 3
+  Word tenant 准确率: 0.769231  召回率: 0.909091  F1测度: 0.833333
+  Word tenet 准确率: 0.875  召回率: 0.7  F1测度: 0.777778
+
+
+  that Total: 10  Correct: 5 Miss: 5
+  which Total: 10  Correct: 9 Miss: 1
+  who Total: 10  Correct: 5 Miss: 5
+  Word that 准确率: 0.555556  召回率: 0.5  F1测度: 0.526316
+  Word which 准确率: 0.642857  召回率: 0.9  F1测度: 0.75
+  Word who 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+
+
+  then Total: 10  Correct: 5 Miss: 5
+  than Total: 10  Correct: 10 Miss: 0
+  Word then 准确率: 1  召回率: 0.5  F1测度: 0.666667
+  Word than 准确率: 0.666667  召回率: 1  F1测度: 0.8
+
+
+  throes Total: 10  Correct: 10 Miss: 0
+  throws Total: 10  Correct: 6 Miss: 4
+  Word throes 准确率: 0.714286  召回率: 1  F1测度: 0.833333
+  Word throws 准确率: 1  召回率: 0.6  F1测度: 0.75
+
+
+  through Total: 11  Correct: 4 Miss: 7
+  threw Total: 10  Correct: 4 Miss: 6
+  thorough Total: 11  Correct: 10 Miss: 1
+  though Total: 10  Correct: 5 Miss: 5
+  thru Total: 10  Correct: 6 Miss: 4
+  Word through 准确率: 0.5  召回率: 0.363636  F1测度: 0.421053
+  Word threw 准确率: 1  召回率: 0.4  F1测度: 0.571429
+  Word thorough 准确率: 0.384615  召回率: 0.909091  F1测度: 0.540541
+  Word though 准确率: 0.833333  召回率: 0.5  F1测度: 0.625
+  Word thru 准确率: 0.75  召回率: 0.6  F1测度: 0.666667
+
+
+  til Total: 11  Correct: 7 Miss: 4
+  till Total: 10  Correct: 8 Miss: 2
+  Word til 准确率: 0.777778  召回率: 0.636364  F1测度: 0.7
+  Word till 准确率: 0.666667  召回率: 0.8  F1测度: 0.727273
+
+
+  too Total: 10  Correct: 3 Miss: 7
+  to Total: 10  Correct: 10 Miss: 0
+  two Total: 10  Correct: 4 Miss: 6
+  Word too 准确率: 1  召回率: 0.3  F1测度: 0.461538
+  Word to 准确率: 0.434783  召回率: 1  F1测度: 0.606061
+  Word two 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  torpid Total: 6  Correct: 3 Miss: 3
+  turgid Total: 11  Correct: 5 Miss: 6
+  Word torpid 准确率: 0.333333  召回率: 0.5  F1测度: 0.4
+  Word turgid 准确率: 0.625  召回率: 0.454545  F1测度: 0.526316
+
+
+  turbid Total: 7  Correct: 7 Miss: 0
+  turgid Total: 11  Correct: 7 Miss: 4
+  Word turbid 准确率: 0.636364  召回率: 1  F1测度: 0.777778
+  Word turgid 准确率: 1  召回率: 0.636364  F1测度: 0.777778
+
+
+  vain Total: 10  Correct: 8 Miss: 2
+  vein Total: 11  Correct: 3 Miss: 8
+  vane Total: 11  Correct: 8 Miss: 3
+  Word vain 准确率: 0.444444  召回率: 0.8  F1测度: 0.571429
+  Word vein 准确率: 0.6  召回率: 0.272727  F1测度: 0.375
+  Word vane 准确率: 0.888889  召回率: 0.727273  F1测度: 0.8
+
+
+  verses Total: 10  Correct: 10 Miss: 0
+  versus Total: 10  Correct: 4 Miss: 6
+  Word verses 准确率: 0.625  召回率: 1  F1测度: 0.769231
+  Word versus 准确率: 1  召回率: 0.4  F1测度: 0.571429
+
+
+  vicious Total: 10  Correct: 9 Miss: 1
+  viscous Total: 10  Correct: 9 Miss: 1
+  Word vicious 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word viscous 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  vociferous Total: 10  Correct: 10 Miss: 0
+  voracious Total: 10  Correct: 3 Miss: 7
+  Word vociferous 准确率: 0.588235  召回率: 1  F1测度: 0.740741
+  Word voracious 准确率: 1  召回率: 0.3  F1测度: 0.461538
+
+
+  waist Total: 10  Correct: 10 Miss: 0
+  waste Total: 10  Correct: 9 Miss: 1
+  Word waist 准确率: 0.909091  召回率: 1  F1测度: 0.952381
+  Word waste 准确率: 1  召回率: 0.9  F1测度: 0.947368
+
+
+  wary Total: 10  Correct: 9 Miss: 1
+  weary Total: 10  Correct: 3 Miss: 7
+  Word wary 准确率: 0.5625  召回率: 0.9  F1测度: 0.692308
+  Word weary 准确率: 0.75  召回率: 0.3  F1测度: 0.428571
+
+
+  wave Total: 10  Correct: 7 Miss: 3
+  waive Total: 10  Correct: 7 Miss: 3
+  Word wave 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+  Word waive 准确率: 0.7  召回率: 0.7  F1测度: 0.7
+
+
+  weak Total: 10  Correct: 9 Miss: 1
+  week Total: 10  Correct: 9 Miss: 1
+  Word weak 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+  Word week 准确率: 0.9  召回率: 0.9  F1测度: 0.9
+
+
+  wear Total: 10  Correct: 5 Miss: 5
+  were Total: 10  Correct: 6 Miss: 4
+  ware Total: 10  Correct: 7 Miss: 3
+  where Total: 10  Correct: 7 Miss: 3
+  Word wear 准确率: 0.714286  召回率: 0.5  F1测度: 0.588235
+  Word were 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+  Word ware 准确率: 0.466667  召回率: 0.7  F1测度: 0.56
+  Word where 准确率: 0.636364  召回率: 0.7  F1测度: 0.666667
+
+
+  weather Total: 11  Correct: 1 Miss: 10
+  whether Total: 11  Correct: 9 Miss: 2
+  wether Total: 6  Correct: 2 Miss: 4
+  rather Total: 11  Correct: 4 Miss: 7
+  Word weather 准确率: 0.5  召回率: 0.0909091  F1测度: 0.153846
+  Word whether 准确率: 0.375  召回率: 0.818182  F1测度: 0.514286
+  Word wether 准确率: 1  召回率: 0.333333  F1测度: 0.5
+  Word rather 准确率: 0.363636  召回率: 0.363636  F1测度: 0.363636
+
+
+  wet Total: 10  Correct: 10 Miss: 0
+  whet Total: 10  Correct: 10 Miss: 0
+  Word wet 准确率: 1  召回率: 1  F1测度: 1
+  Word whet 准确率: 1  召回率: 1  F1测度: 1
+
+
+  which Total: 10  Correct: 8 Miss: 2
+  witch Total: 10  Correct: 2 Miss: 8
+  Word which 准确率: 0.5  召回率: 0.8  F1测度: 0.615385
+  Word witch 准确率: 0.5  召回率: 0.2  F1测度: 0.285714
+
+
+  while Total: 11  Correct: 11 Miss: 0
+  whilst Total: 10  Correct: 8 Miss: 2
+  Word while 准确率: 0.846154  召回率: 1  F1测度: 0.916667
+  Word whilst 准确率: 1  召回率: 0.8  F1测度: 0.888889
+
+
+  who Total: 10  Correct: 9 Miss: 1
+  whom Total: 10  Correct: 6 Miss: 4
+  Word who 准确率: 0.692308  召回率: 0.9  F1测度: 0.782609
+  Word whom 准确率: 0.857143  召回率: 0.6  F1测度: 0.705882
+
+
+
+  Theta = 1.1
+  Total 准确率: 0.768477  召回率: 0.736816  F1测度: 0.725876
+
+--------------------------------------------------------------------
+

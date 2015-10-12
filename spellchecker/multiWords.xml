@@ -1,0 +1,1443 @@
+<?xml version="1.0" ?>
+<CONFUSESETS>
+    <CONFUSESET size="2">
+        <WORD>abjure</WORD>
+        <WORD>adjure</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>abstruse</WORD>
+        <WORD>obtuse</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>accede</WORD>
+        <WORD>exceed</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>accept</WORD>
+        <WORD>except</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>adapt</WORD>
+        <WORD>adept</WORD>
+        <WORD>adopt</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>adoptive</WORD>
+        <WORD>adopted</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>advice</WORD>
+        <WORD>advise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>adverse</WORD>
+        <WORD>averse</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>affect</WORD>
+        <WORD>effect</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>aggravate</WORD>
+        <WORD>annoy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>aid</WORD>
+        <WORD>aide</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>aisle</WORD>
+        <WORD>isle</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>airs</WORD>
+        <WORD>heris</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>allot</WORD>
+        <WORD>alot</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>allowed</WORD>
+        <WORD>aloud</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>allude</WORD>
+        <WORD>elude</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>allusion</WORD>
+        <WORD>delusion</WORD>
+        <WORD>illusion</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>altar</WORD>
+        <WORD>alter</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>allude</WORD>
+        <WORD>elude</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>almost</WORD>
+        <WORD>most</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>aloud</WORD>
+        <WORD>allowed</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>alternately</WORD>
+        <WORD>alternatively</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>ambiguous</WORD>
+        <WORD>ambivalent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>amiable</WORD>
+        <WORD>amicable</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>among</WORD>
+        <WORD>amongst</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>amoral</WORD>
+        <WORD>immoral</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>amount</WORD>
+        <WORD>number</WORD>
+        <WORD>quantity</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>amused</WORD>
+        <WORD>bemused</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>annual</WORD>
+        <WORD>annul</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="6">
+        <WORD>anyway</WORD>
+        <WORD>anywhere</WORD>
+        <WORD>nowhere</WORD>
+        <WORD>anyways</WORD>
+        <WORD>anywheres</WORD>
+        <WORD>nowheres</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>appraise</WORD>
+        <WORD>apprise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>assent</WORD>
+        <WORD>ascent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>ascetic</WORD>
+        <WORD>aesthetic</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>ascribe</WORD>
+        <WORD>describe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>aspersion</WORD>
+        <WORD>dispersion</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>assistance</WORD>
+        <WORD>assistants</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>assure</WORD>
+        <WORD>ensure</WORD>
+        <WORD>insure</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>arcane</WORD>
+        <WORD>archaic</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>auger</WORD>
+        <WORD>augur</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>aural</WORD>
+        <WORD>oral</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>award</WORD>
+        <WORD>reward</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bad</WORD>
+        <WORD>badly</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>baited</WORD>
+        <WORD>bated</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>balmy</WORD>
+        <WORD>barmy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bare</WORD>
+        <WORD>bear</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bated</WORD>
+        <WORD>baited</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bazaar</WORD>
+        <WORD>bizarre</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>being</WORD>
+        <WORD>been</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>belief</WORD>
+        <WORD>believe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>beside</WORD>
+        <WORD>besides</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>berth</WORD>
+        <WORD>birth</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>biannual</WORD>
+        <WORD>biennial</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bimonthly</WORD>
+        <WORD>semimonthly</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>blithe</WORD>
+        <WORD>lithe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>block</WORD>
+        <WORD>bloc</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>blonde</WORD>
+        <WORD>blond</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>board</WORD>
+        <WORD>bored</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>bore</WORD>
+        <WORD>boar</WORD>
+        <WORD>boor</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>born</WORD>
+        <WORD>borne</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bough</WORD>
+        <WORD>bow</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>brake</WORD>
+        <WORD>break</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>braise</WORD>
+        <WORD>braze</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>breathe</WORD>
+        <WORD>breath</WORD>
+        <WORD>breech</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>bridal</WORD>
+        <WORD>bridle</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>broach</WORD>
+        <WORD>brooch</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>by</WORD>
+        <WORD>bye</WORD>
+        <WORD>buy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>cache</WORD>
+        <WORD>cash</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>capital</WORD>
+        <WORD>capitol</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>can</WORD>
+        <WORD>may</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>canvas</WORD>
+        <WORD>canvass</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>capital</WORD>
+        <WORD>capitol</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>censor</WORD>
+        <WORD>censure</WORD>
+        <WORD>sensor</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>cereal</WORD>
+        <WORD>serial</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>chafe</WORD>
+        <WORD>chaff</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>chord</WORD>
+        <WORD>cord</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>chomp</WORD>
+        <WORD>champ</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>cite</WORD>
+        <WORD>sight</WORD>
+        <WORD>site</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>climactic</WORD>
+        <WORD>climatic</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>clothes</WORD>
+        <WORD>cloths</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>collaborate</WORD>
+        <WORD>corroborate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>coarse</WORD>
+        <WORD>course</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>costume</WORD>
+        <WORD>custom</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>compare</WORD>
+        <WORD>contrast</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>complacent</WORD>
+        <WORD>complaisant</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>complement</WORD>
+        <WORD>compliment</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>compose</WORD>
+        <WORD>comprise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>concurrent</WORD>
+        <WORD>consecutive</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>confident</WORD>
+        <WORD>confidant</WORD>
+        <WORD>confidante</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>conform</WORD>
+        <WORD>confirm</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>congenial</WORD>
+        <WORD>congenital</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>connote</WORD>
+        <WORD>denote</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>conscience</WORD>
+        <WORD>conscious</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>coral</WORD>
+        <WORD>corral</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>consul</WORD>
+        <WORD>council</WORD>
+        <WORD>counsel</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>continual</WORD>
+        <WORD>continuous</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>co-operation</WORD>
+        <WORD>corporation</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>corps</WORD>
+        <WORD>core</WORD>
+        <WORD>corpse</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>correspondence</WORD>
+        <WORD>correspondents</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>cue</WORD>
+        <WORD>queue</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>curb</WORD>
+        <WORD>kerb</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>currant</WORD>
+        <WORD>current</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>creak</WORD>
+        <WORD>creek</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>credible</WORD>
+        <WORD>creditable</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>criteria</WORD>
+        <WORD>criterion</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>dairy</WORD>
+        <WORD>diary</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>deduction</WORD>
+        <WORD>induction</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>dependant</WORD>
+        <WORD>dependent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>decent</WORD>
+        <WORD>descent</WORD>
+        <WORD>dissent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>defuse</WORD>
+        <WORD>diffuse</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>definite</WORD>
+        <WORD>definitive</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>desert</WORD>
+        <WORD>dessert</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>device</WORD>
+        <WORD>devise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>discreet</WORD>
+        <WORD>discrete</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>discomfort</WORD>
+        <WORD>discomfit</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>disinterested</WORD>
+        <WORD>uninterested</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>dived</WORD>
+        <WORD>dove</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>divers</WORD>
+        <WORD>diverse</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>draught</WORD>
+        <WORD>draft</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>draw</WORD>
+        <WORD>drawer</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>dual</WORD>
+        <WORD>duel</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>each</WORD>
+        <WORD>every</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>economic</WORD>
+        <WORD>economical</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>effect</WORD>
+        <WORD>affect</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>effective</WORD>
+        <WORD>effectual</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>e.g.</WORD>
+        <WORD>i.e.</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>elicit</WORD>
+        <WORD>illicit</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>emigrate</WORD>
+        <WORD>immigrate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>eminent</WORD>
+        <WORD>emmanent</WORD>
+        <WORD>imminent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>empathy</WORD>
+        <WORD>sympathy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>energize</WORD>
+        <WORD>enervate</WORD>
+        <WORD>innervate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>ensure</WORD>
+        <WORD>insure</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>envelop</WORD>
+        <WORD>envelope</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>enquiry</WORD>
+        <WORD>inquiry</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>entomology</WORD>
+        <WORD>etymology</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>ethereal</WORD>
+        <WORD>ephemeral</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>everyone</WORD>
+        <WORD>every one</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>essence</WORD>
+        <WORD>sense</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>exercise</WORD>
+        <WORD>exorcise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>explicit</WORD>
+        <WORD>implicit</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>fair</WORD>
+        <WORD>fare</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>faint</WORD>
+        <WORD>feint</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>farther</WORD>
+        <WORD>further</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>fawn</WORD>
+        <WORD>faun</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>faze</WORD>
+        <WORD>phase</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>few</WORD>
+        <WORD>fewer</WORD>
+        <WORD>less</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>figuratively</WORD>
+        <WORD>literally</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>flack</WORD>
+        <WORD>flak</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>flammable</WORD>
+        <WORD>inflammable</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>flare</WORD>
+        <WORD>flair</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>flaunt</WORD>
+        <WORD>flout</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>flounder</WORD>
+        <WORD>founder</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>forbear</WORD>
+        <WORD>forebear</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>forcible</WORD>
+        <WORD>forceful</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>forego</WORD>
+        <WORD>forgo</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>forewent</WORD>
+        <WORD>forwent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>foreword</WORD>
+        <WORD>forward</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>foregone</WORD>
+        <WORD>forgone</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>formerly</WORD>
+        <WORD>formally</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>fortuitous</WORD>
+        <WORD>fortunate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>founder</WORD>
+        <WORD>flounder</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>fourth</WORD>
+        <WORD>forth</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>foul</WORD>
+        <WORD>fowl</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>found</WORD>
+        <WORD>founded</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>freeze</WORD>
+        <WORD>frieze</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>further</WORD>
+        <WORD>farther</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>gambit</WORD>
+        <WORD>gamut</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>gibe</WORD>
+        <WORD>gybe</WORD>
+        <WORD>jibe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>gorilla</WORD>
+        <WORD>guerrilla</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>gray</WORD>
+        <WORD>grey</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>grisly</WORD>
+        <WORD>grizzly</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hail</WORD>
+        <WORD>hale</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>latent</WORD>
+        <WORD>patent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hangar</WORD>
+        <WORD>hanger</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hanged</WORD>
+        <WORD>hung</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>herd</WORD>
+        <WORD>heard</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>heroin</WORD>
+        <WORD>heroine</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hear</WORD>
+        <WORD>here</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>historic</WORD>
+        <WORD>historical</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hoard</WORD>
+        <WORD>horde</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hole</WORD>
+        <WORD>whole</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hone</WORD>
+        <WORD>home</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>hour</WORD>
+        <WORD>our</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>idiosyncrasy</WORD>
+        <WORD>idiosyncracy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>imitated</WORD>
+        <WORD>intimated</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>immemorial</WORD>
+        <WORD>immortal</WORD>
+        <WORD>immoral</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>impending</WORD>
+        <WORD>pending</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>imply</WORD>
+        <WORD>infer</WORD>
+        <WORD>implicate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>inanity</WORD>
+        <WORD>inanition</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>inchoate</WORD>
+        <WORD>incoherent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>incidence</WORD>
+        <WORD>incidents</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>incite</WORD>
+        <WORD>insight</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>incredulous</WORD>
+        <WORD>incredible</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>indubitably</WORD>
+        <WORD>undoubtedly</WORD>
+        <WORD>undoubtably</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>ingenious</WORD>
+        <WORD>ingenuous</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>instance</WORD>
+        <WORD>instants</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>insulate</WORD>
+        <WORD>insolate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>intolerable</WORD>
+        <WORD>intolerant</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>irregardless</WORD>
+        <WORD>regardless</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>into</WORD>
+        <WORD>onto</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>its</WORD>
+        <WORD>it's</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>knew</WORD>
+        <WORD>new</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>latent</WORD>
+        <WORD>patent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>later</WORD>
+        <WORD>latter</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>law</WORD>
+        <WORD>lore</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>lay</WORD>
+        <WORD>lie</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>lead</WORD>
+        <WORD>led</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>learned</WORD>
+        <WORD>learnt</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>let</WORD>
+        <WORD>let's</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>lesson</WORD>
+        <WORD>lessen</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>liable</WORD>
+        <WORD>libel</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>licence</WORD>
+        <WORD>license</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>lightening</WORD>
+        <WORD>lightning</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>loath</WORD>
+        <WORD>loathe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>loose</WORD>
+        <WORD>lose</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>luxurious</WORD>
+        <WORD>luxuriant</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>manner</WORD>
+        <WORD>manor</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>mantel</WORD>
+        <WORD>mantle</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>marital</WORD>
+        <WORD>martial</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>marshal</WORD>
+        <WORD>marshall</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>marinade</WORD>
+        <WORD>marinate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>material</WORD>
+        <WORD>materiel</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>may</WORD>
+        <WORD>might</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>meter</WORD>
+        <WORD>metre</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>meet</WORD>
+        <WORD>mete</WORD>
+        <WORD>meat</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>militate</WORD>
+        <WORD>mitigate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>moral</WORD>
+        <WORD>morale</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>mordant</WORD>
+        <WORD>trenchant</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>mute</WORD>
+        <WORD>moot</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>mucous</WORD>
+        <WORD>mucus</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>nauseous</WORD>
+        <WORD>nauseated</WORD>
+        <WORD>nauseating</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>noisome</WORD>
+        <WORD>noisy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>notable</WORD>
+        <WORD>noticeable</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>nowhere</WORD>
+        <WORD>nowheres</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>obeisance</WORD>
+        <WORD>obsequious</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>object</WORD>
+        <WORD>subject</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>overdo</WORD>
+        <WORD>overdue</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>palate</WORD>
+        <WORD>palette</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>past</WORD>
+        <WORD>passed</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>passable</WORD>
+        <WORD>passible</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>pasture</WORD>
+        <WORD>pastor</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>pamper</WORD>
+        <WORD>pander</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>patience</WORD>
+        <WORD>patients</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>plain</WORD>
+        <WORD>plane</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>peace</WORD>
+        <WORD>piece</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>peccable</WORD>
+        <WORD>peccant</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>pedal</WORD>
+        <WORD>peddle</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>peek</WORD>
+        <WORD>pique</WORD>
+        <WORD>peak</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>peer</WORD>
+        <WORD>pier</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>pendant</WORD>
+        <WORD>pendent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>penultimate</WORD>
+        <WORD>ultimate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>personal</WORD>
+        <WORD>personnel</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>perspective</WORD>
+        <WORD>prospective</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>perspicacious</WORD>
+        <WORD>perspicuous</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>piquant</WORD>
+        <WORD>pique</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>plain</WORD>
+        <WORD>plane</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>pole</WORD>
+        <WORD>poll</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>pore</WORD>
+        <WORD>pour</WORD>
+        <WORD>poor</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>portent</WORD>
+        <WORD>potent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>practicable</WORD>
+        <WORD>practical</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>practice</WORD>
+        <WORD>practise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>precedence</WORD>
+        <WORD>precedent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>precede</WORD>
+        <WORD>proceed</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>presence</WORD>
+        <WORD>presents</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>premise</WORD>
+        <WORD>premises</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>pray</WORD>
+        <WORD>prey</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>principal</WORD>
+        <WORD>principle</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>prescribe</WORD>
+        <WORD>proscribe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>profit</WORD>
+        <WORD>prophet</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>profligate</WORD>
+        <WORD>prolific</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>program</WORD>
+        <WORD>programme</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>prophecy</WORD>
+        <WORD>prophesy</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>provided</WORD>
+        <WORD>providing</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>quiet</WORD>
+        <WORD>quit</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>quote</WORD>
+        <WORD>quotation</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>rain</WORD>
+        <WORD>reign</WORD>
+        <WORD>rein</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>raise</WORD>
+        <WORD>rise</WORD>
+        <WORD>raze</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>real</WORD>
+        <WORD>really</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>reality</WORD>
+        <WORD>realty</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>rebate</WORD>
+        <WORD>refund</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>regimen</WORD>
+        <WORD>regiment</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>residence</WORD>
+        <WORD>residents</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>respectable</WORD>
+        <WORD>respectful</WORD>
+        <WORD>respective</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>respectfully</WORD>
+        <WORD>respectively</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>restive</WORD>
+        <WORD>restful</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>reluctant</WORD>
+        <WORD>reticent</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>retch</WORD>
+        <WORD>wretch</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>rifle</WORD>
+        <WORD>riffle</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>right</WORD>
+        <WORD>rite</WORD>
+        <WORD>write</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>rise</WORD>
+        <WORD>raise</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>road</WORD>
+        <WORD>rode</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>role</WORD>
+        <WORD>roll</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>sale</WORD>
+        <WORD>sell</WORD>
+        <WORD>sail</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sanguine</WORD>
+        <WORD>sanguinary</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>saw</WORD>
+        <WORD>seen</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>scene</WORD>
+        <WORD>seen</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sea</WORD>
+        <WORD>see</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>seam</WORD>
+        <WORD>seem</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sensual</WORD>
+        <WORD>sensuous</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sever</WORD>
+        <WORD>severe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>serf</WORD>
+        <WORD>surf</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>sit</WORD>
+        <WORD>set</WORD>
+        <WORD>seat</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sceptic</WORD>
+        <WORD>septic</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>shall</WORD>
+        <WORD>will</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>shear</WORD>
+        <WORD>sheer</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>shore</WORD>
+        <WORD>sure</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>singly</WORD>
+        <WORD>singularly</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sole</WORD>
+        <WORD>soul</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>sometime</WORD>
+        <WORD>sometimes</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>spelled</WORD>
+        <WORD>spelt</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>spilled</WORD>
+        <WORD>spilt</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>stanch</WORD>
+        <WORD>staunch</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>stationary</WORD>
+        <WORD>stationery</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>statue</WORD>
+        <WORD>stature</WORD>
+        <WORD>statute</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>story</WORD>
+        <WORD>storey</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>straight</WORD>
+        <WORD>strait</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>supposedly</WORD>
+        <WORD>supposably</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>taut</WORD>
+        <WORD>taunt</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>tenant</WORD>
+        <WORD>tenet</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>that</WORD>
+        <WORD>which</WORD>
+        <WORD>who</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>their</WORD>
+        <WORD>there</WORD>
+        <WORD>they're</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="4">
+        <WORD>theirself</WORD>
+        <WORD>theirselves</WORD>
+        <WORD>themself</WORD>
+        <WORD>themselves</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>then</WORD>
+        <WORD>than</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="5">
+        <WORD>through</WORD>
+        <WORD>threw</WORD>
+        <WORD>thorough</WORD>
+        <WORD>though</WORD>
+        <WORD>thru</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>throes</WORD>
+        <WORD>throws</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>til</WORD>
+        <WORD>till</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>titillate</WORD>
+        <WORD>titivate</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>too</WORD>
+        <WORD>to</WORD>
+        <WORD>two</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>tortuous</WORD>
+        <WORD>torturous</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>torpid</WORD>
+        <WORD>turgid</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>turbid</WORD>
+        <WORD>turgid</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="3">
+        <WORD>vain</WORD>
+        <WORD>vein</WORD>
+        <WORD>vane</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>venal</WORD>
+        <WORD>venial</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>verses</WORD>
+        <WORD>versus</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>vicious</WORD>
+        <WORD>viscous</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>vociferous</WORD>
+        <WORD>voracious</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>waist</WORD>
+        <WORD>waste</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>wary</WORD>
+        <WORD>weary</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>wave</WORD>
+        <WORD>waive</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>weak</WORD>
+        <WORD>week</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="4">
+        <WORD>weather</WORD>
+        <WORD>whether</WORD>
+        <WORD>wether</WORD>
+        <WORD>rather</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="4">
+        <WORD>wear</WORD>
+        <WORD>were</WORD>
+        <WORD>ware</WORD>
+        <WORD>where</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>wet</WORD>
+        <WORD>whet</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>which</WORD>
+        <WORD>witch</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>while</WORD>
+        <WORD>whilst</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>who</WORD>
+        <WORD>whom</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>who's</WORD>
+        <WORD>whose</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>wreath</WORD>
+        <WORD>wreathe</WORD>
+    </CONFUSESET>
+    <CONFUSESET size="2">
+        <WORD>you're</WORD>
+        <WORD>your</WORD>
+    </CONFUSESET>
+</CONFUSESETS>
